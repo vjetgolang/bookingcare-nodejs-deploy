@@ -15,4 +15,3 @@ COPY . .
 
 CMD [ "npm","run", "build" ]
 #khởi động ứng dụng
-
